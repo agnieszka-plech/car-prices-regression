@@ -4,7 +4,7 @@
 
 <h2> Introduction <span class="tocSkip"></span></h2>
 
-This Jupyter Notebook kernel explores sales of Toyota Corolla cars. The excercise contains various Machine Learning Linear Regression algorithms that have been used to predict the sale price of Toyota Corolla.
+This Jupyter Notebook kernel explores sales of Toyota Corolla cars. The exercise contains various Machine Learning Linear Regression algorithms that have been used to predict the sale price of Toyota Corolla.
 
 
 <h2> Business Case <span class="tocSkip"></span></h2>
