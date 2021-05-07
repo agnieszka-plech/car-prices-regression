@@ -14,4 +14,4 @@ The CEO from Toyota Barcelona has contacted us because they are interested in ha
 
 Right now, they have developed and algorithm that has an error of 50%, so they are not feeling really confident with their results. They have contacted us because they are interested in having a model with better Accuracy. Can you help them?
     
-> Dataset: https://www.kaggle.com/tolgahancepel/toyota-corolla
+> Dataset: https://www.kaggle.com/tolgahancepel/toyota-corolla 
